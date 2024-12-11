@@ -1,6 +1,6 @@
 ---
-title: Private Dependencies GitHub
-layout: en
+title: flinks.Dependencies GitHub
+layout: de
 
 ---
 
