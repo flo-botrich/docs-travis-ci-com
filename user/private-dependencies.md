@@ -4,7 +4,7 @@ layout: de
 
 ---
 
-*Some of the features described here are currently **only available for private repositories on [travis-ci.com](https://travis-ci.com)**.*
+*manche der features die hier beschrieben sind, sind derzeitig **nur f[r private repositories auf [travis-ci.com](https://travis-ci.com) verfügbar**.*
 
 When testing a private repository, you might need to pull in other private
 repositories as dependencies via [git
